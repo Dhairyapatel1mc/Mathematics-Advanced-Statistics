@@ -423,16 +423,6 @@ Calculates 95% confidence intervals for health variables.
 - H0: Mean BMI is equal across age groups.
 - H1: Mean BMI differs across age groups.
 
----
-
-# 📷 Add Your Own Screenshots
-<img width="1025" height="648" alt="image" src="https://github.com/user-attachments/assets/13ef51cd-7f40-4850-8457-df0bb15e80ab" />
-<img width="1020" height="638" alt="image" src="https://github.com/user-attachments/assets/1950b78a-ca7a-4d64-9c42-57c99faa7d51" />
-<img width="768" height="513" alt="image" src="https://github.com/user-attachments/assets/ffd1e99c-535e-4263-9158-3919de8d72ae" />
-
-
-
-
 
 # 📚 Learning Outcomes
 
